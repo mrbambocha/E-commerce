@@ -1,2 +1,2 @@
 # E-commerce
-Predicting product pricing in e-commerce with support vector machine (SVM).
+Predicting product prices in e-commerce with support vector machine (SVM).
